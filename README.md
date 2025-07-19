@@ -48,12 +48,12 @@ A modern and responsive company website for Techflow Solutions, showcasing our s
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/techflow-website.git
+git clone https://github.com/Revou-Coding-Camp/codingcamp-14-jul-25-dilsdev.git
 ```
 
 2. Open `index.html` in your browser:
 ```bash
-cd techflow-website
+cd codingcamp-14-jul-25-dilsdev
 open index.html  # For Mac
 # or
 start index.html # For Windows
